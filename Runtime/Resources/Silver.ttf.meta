@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fe98ab97bb5e4783b707ffd997860096
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureSize: 0
+  textureWidth: 512
+  textureHeight: 512
+  texturePadding: 2
+  packPantograph: 1
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 0
+  use2xBehaviour: 1
+  integerAdvance: 1
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

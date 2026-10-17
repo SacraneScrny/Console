@@ -1,0 +1,14 @@
+{
+  "name": "UniversalConsole.Editor",
+  "rootNamespace": "UniversalConsole.Editor",
+  "references": [ "UniversalConsole.Runtime" ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

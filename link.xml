@@ -1,0 +1,6 @@
+<linker>
+  <!-- Чтобы IL2CPP не вырезал команды/паки, которые дёргаются только из консоли -->
+  <assembly fullname="Assembly-CSharp">
+    <type fullname="*" preserve="all" required="false" />
+  </assembly>
+</linker>
