@@ -23,9 +23,25 @@ on top of uGUI and the manager self-creates before the first scene loads.
 
 ## Installation
 
-1. Open Package Manager → `+` → **Add package from disk** → select this folder's `package.json`.
-2. Or add it by git URL.
-3. Press Play. The console manager is created automatically; press `` ` `` or `F1` to open it.
+**From git URL (recommended):**
+
+1. Open `Window → Package Manager → + → Add package from git URL...`
+2. Paste `https://github.com/SacraneScrny/Console.git` and press Add.
+3. To pin a version, append a tag: `https://github.com/SacraneScrny/Console.git#v0.1.0`.
+
+Same via `Packages/manifest.json`:
+
+```json
+{
+  "dependencies": {
+    "com.universal.console": "https://github.com/SacraneScrny/Console.git#v0.1.0"
+  }
+}
+```
+
+**From disk:** `Package Manager → + → Add package from disk...` → select this folder's `package.json`.
+
+Press Play. The console manager is created automatically; press `` ` `` or `F1` to open it.
 
 ## Quick start
 
